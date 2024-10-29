@@ -1,0 +1,32 @@
+#campoBuscar{
+    margin-left: 43%;
+    margin-top: 3%;
+    border-radius: 5%;
+    border: none;
+    border-style: double;
+}
+
+#botonBuscar{
+    border: none;
+    border-radius: 5%;
+    background-color: rgb(224, 179, 44);
+    border-style: double;
+}
+
+
+body, html {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    height: 100%;
+  }
+
+.video-background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -1; 
+  }
